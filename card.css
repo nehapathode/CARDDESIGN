@@ -1,0 +1,43 @@
+.con1{
+      height: 600px;
+      width: 500px;
+      border-top: solid 2px black;
+      border-bottom: solid 2px black;
+      border-right:  solid 2px black;
+      border-left:  solid 2px black;
+      margin-left: auto;
+      margin-right: auto;
+}
+#con2{
+      margin-left: 125px;
+      margin-top: 80px;
+}
+
+P{
+      text-align: center;
+      
+
+}
+.con4{
+      
+       height: 80px;
+       width: 500px;
+       border-top: solid 2px black;
+      border-bottom: solid 2px black;
+      border-right:  solid 2px black;
+      border-left:  solid 2px black;
+      margin-left: auto;
+      margin-right: auto;
+       text-align: center ;
+       background-color: cyan;
+ 
+}
+.con4:hover{
+      background-color: aliceblue;
+}
+
+#neh{
+      margin-top: 30px;
+}
+
+
